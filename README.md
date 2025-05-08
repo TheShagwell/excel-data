@@ -1,1 +1,1 @@
-This is a project on hands-on on Excel 
+This is a project on hands-on on Excel and Python.
