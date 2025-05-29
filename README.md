@@ -1,1 +1,3 @@
-This is a project on hands-on on Excel (365) and Python.
+#### What to know about this project
+- This is a project on hands-on on Excel (365) and Python.
+
