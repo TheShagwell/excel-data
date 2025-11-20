@@ -2,4 +2,5 @@
 - This is a project on hands-on on Excel (365 Office) and Python.
 - Data Cleaning and Extraction.
 - Data Analysis.
+- Data Luke.
 - Dashboard creation.
