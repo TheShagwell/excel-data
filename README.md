@@ -3,4 +3,5 @@
 - Data Cleaning and Extraction.
 - Data Analysis.
 - Data Luke.
+- Big Data.
 - Dashboard creation.
